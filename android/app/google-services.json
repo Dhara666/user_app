@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248665828090",
+    "project_id": "twoplus-b10a9",
+    "storage_bucket": "twoplus-b10a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248665828090:android:0a6e4f52f2d781b000b743",
+        "android_client_info": {
+          "package_name": "com.example.meditation_twoplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248665828090-24nj6vo8u7gsli9gqr8d5aorj82h8uu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditation_twoplus",
+            "certificate_hash": "73d61f120010b4c2a6af9e06b3f7e9a76ba622a6"
+          }
+        },
+        {
+          "client_id": "248665828090-lki36cegr4mj1ml6ni930hms3hjmi7p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDERAIph4F_NcJc-LG82MPguwCX6Sjt4qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248665828090-lki36cegr4mj1ml6ni930hms3hjmi7p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
